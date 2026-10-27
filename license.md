@@ -151,4 +151,4 @@ and a missing Visual C++ runtime.
 
 ---
 
-*Roblox · Updated 2026-10-26 · Shared under the MIT License*
+*Roblox · Updated 2026-10-27 · Shared under the MIT License*
